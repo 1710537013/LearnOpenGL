@@ -1,2 +1,2 @@
-# LearnOpenGl
-learn OpenGL  code program
+# LearnOpenGl 
+This is a code file that I used to learning OpengGL
